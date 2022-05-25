@@ -1,0 +1,4 @@
+#Wed May 25 10:54:14 BRT 2022
+base.0=/home/experiment/projects/pdf/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
